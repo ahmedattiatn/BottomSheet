@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://github.com/ahmedattiatn/BottomSheet/blob/main/Docs/Images/1.png?raw=true" height="700"><br><Br>
+<img src="https://github.com/ahmedattiatn/BottomSheet/blob/main/Docs/Images/1.png?raw=true" height="500"><br><Br>
 <img src="https://github.com/ahmedattiatn/BottomSheet/blob/main/Docs/Images/2.png?raw=true" width="400"><br><Br>
 
 
