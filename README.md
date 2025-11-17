@@ -4,8 +4,8 @@
 
 ---
 
-<img src="BottomSheet/blob/main/Docs/Images/1.png" height="700"/><br><br>
-<img src="BottomSheet/blob/main/Docs/Images/2.png" height="350"/>
+<img src="BottomSheet/Docs/Images/1.png" height="700"/><br><br>
+<img src="BottomSheet/Docs/Images/2.png" height="350"/>
 
 ---
 
