@@ -4,10 +4,10 @@
 
 ---
 
-<img src="BottomSheet/Docs/Images/1.png" height="700"/><br><br>
-<img src="BottomSheet/Docs/Images/2.png" height="350"/>
-![alt text](https://github.com/ahmedattiatn/BottomSheet/blob/main/Docs/Images/1.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+<img src="https://github.com/ahmedattiatn/BottomSheet/blob/main/Docs/Images/1.png?raw=true" width="700">
+
+
 
 
 ---
